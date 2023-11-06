@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "csprep-org-tutor"
+  },
+  "targets": {
+    "csprep-org-tutor": {
+      "hosting": {
+        "csprep-nepal": [
+          "csprep-nepal"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
